@@ -4,7 +4,8 @@
   "description": "Creating pdf from the link",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "jscs index.js && jshint index.js || exit 0"
   },
   "author": "",
   "license": "ISC",
