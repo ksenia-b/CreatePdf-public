@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366e5a21-062d-4569-89c1-5dbf45bcef35" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CreatePdf-public.iws" />
@@ -34,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/node_modules/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
@@ -105,6 +107,7 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/node_modules/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -194,6 +197,11 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ксюша\WebstormProjects\CreatePdf-public" />
+    </key>
+  </component>
   <component name="RunManager" selected="Node.js.index.js">
     <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
       <method />
@@ -275,7 +283,7 @@
       <updated>1478785023874</updated>
       <workItem from="1478785026341" duration="4299000" />
       <workItem from="1478814170190" duration="30000" />
-      <workItem from="1479157346790" duration="9098000" />
+      <workItem from="1479157346790" duration="10384000" />
     </task>
     <task id="LOCAL-00001" summary="code quality">
       <created>1479158706666</created>
@@ -298,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479383771601</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="code quality">
+      <created>1479383849022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1479383849022</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13427000" />
+    <option name="totallyTimeSpent" value="14713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="1" width="1292" height="766" extended-state="0" />
@@ -456,7 +471,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
