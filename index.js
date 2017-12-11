@@ -1,7 +1,7 @@
 "use strict";
 
 /**
- * Created by Ксюша on 17.09.2016.
+ * Created by ksu on 17.09.2016.
  */
 var phantom = require('phantom');
 var nodemailer = require('nodemailer');
